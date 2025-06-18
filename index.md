@@ -1,7 +1,9 @@
 ---
 layout: home
 title: "Welcome"
+author_profile: true
 ---
+
 
 Hi, I'm **Faith Mwende Muli** 👋  
 A passionate Computer Science graduate from Maseno University with a strong foundation in data analysis, IT support, and network security.
